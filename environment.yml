@@ -1,0 +1,14 @@
+name: vortspec
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - dask
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
+  - ffmpeg
+  - jupyterlab
+  - pip
+
